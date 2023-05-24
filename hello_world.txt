@@ -1,0 +1,6 @@
+Entering some generic text so that I can see the impact it will to
+the file with Git.
+
+FYI
+
+HELLO WORLD!
